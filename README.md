@@ -1,5 +1,7 @@
 # 1602 Backpack
 
+![Board attached to 16-2 display](./1602-backpack.jpg)
+
 A small backpack board to add any or all of the following to a 1602 LCD display
 (and other variants with similar pinouts, like 2004):
 
